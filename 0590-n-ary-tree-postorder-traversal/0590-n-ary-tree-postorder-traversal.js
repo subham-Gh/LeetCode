@@ -12,13 +12,15 @@
  */
 var postorder = function(root) {
     let result = [];
+    
     function traverse(node) {
-        if (node === null) return;
+        if (!node) return;
         for (let child of node.children) {
             traverse(child);
         }
         result.push(node.val);
     }
+    
     traverse(root);
     return result;
 };
