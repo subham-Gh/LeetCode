@@ -11,19 +11,14 @@
  * @return {number[]}
  */
 var postorder = function(root) {
-    if (!root) return [];
-
-    const stack = [root];
-    const result = [];
-
-    while (stack.length) {
-        const node = stack.pop();
-        result.push(node.val);
-
-        for (const child of node.children) {
-            stack.push(child);
+    let result = [];
+    function traverse(node) {
+        if (node === null) return;
+        for (let child of node.children) {
+            traverse(child);
         }
+        result.push(node.val);
     }
-
-    return result.reverse();
+    traverse(root);
+    return result;
 };
