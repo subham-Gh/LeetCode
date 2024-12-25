@@ -11,25 +11,22 @@
  * @return {number[]}
  */
 var largestValues = function(root) {
-    if (!root) return [];
-
     const result = [];
-    const queue = [root];
 
-    while (queue.length > 0) {
-        const levelSize = queue.length;
-        let maxVal = -Infinity;
+    const dfs = (node, level) => {
+        if (!node) return;
 
-        for (let i = 0; i < levelSize; i++) {
-            const node = queue.shift();
-            maxVal = Math.max(maxVal, node.val);
-
-            if (node.left) queue.push(node.left);
-            if (node.right) queue.push(node.right);
+        if (result.length === level) {
+            result.push(node.val);
+        } else {
+            result[level] = Math.max(result[level], node.val);
         }
 
-        result.push(maxVal);
-    }
+        dfs(node.left, level + 1);
+        dfs(node.right, level + 1);
+    };
 
+    dfs(root, 0);
     return result;
 };
+
