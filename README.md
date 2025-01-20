@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/subham-Gh/LeetCode/tree/master/0035-search-insert-position) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subham-Gh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/subham-Gh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/subham-Gh/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
