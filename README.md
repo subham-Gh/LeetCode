@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/subham-Gh/LeetCode/tree/master/0035-search-insert-position) |
+| [1876-map-of-highest-peak](https://github.com/subham-Gh/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/subham-Gh/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subham-Gh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/subham-Gh/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/subham-Gh/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/subham-Gh/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Binary Search
@@ -24,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/subham-Gh/LeetCode/tree/master/2145-grid-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/subham-Gh/LeetCode/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
