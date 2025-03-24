@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/subham-Gh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/subham-Gh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/subham-Gh/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/subham-Gh/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/subham-Gh/LeetCode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/subham-Gh/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/subham-Gh/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/subham-Gh/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/subham-Gh/LeetCode/tree/master/0412-fizz-buzz) |
 | [1477-product-of-the-last-k-numbers](https://github.com/subham-Gh/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/subham-Gh/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/subham-Gh/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
