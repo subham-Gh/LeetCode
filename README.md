@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/subham-Gh/LeetCode/tree/master/0038-count-and-say) |
 | [0412-fizz-buzz](https://github.com/subham-Gh/LeetCode/tree/master/0412-fizz-buzz) |
 | [0768-partition-labels](https://github.com/subham-Gh/LeetCode/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/subham-Gh/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
