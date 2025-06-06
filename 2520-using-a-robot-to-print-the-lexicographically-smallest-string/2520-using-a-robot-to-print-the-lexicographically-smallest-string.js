@@ -2,42 +2,41 @@
  * @param {string} s
  * @return {string}
  */
-function robotWithString(s) {
-    const n = s.length;
-    const count = new Array(26).fill(0);
-    
-    // Count the frequency of each character
-    for (let ch of s) {
-        count[ch.charCodeAt(0) - 97]++;
+const robotWithString = (s) => {
+    const count = Array(26).fill(0);
+    let min = 0;
+    const output = [];
+    const buffer = [];
+
+    for (let i = 0; i < s.length; i++) {
+        count[s.charCodeAt(i) - 97]++;
     }
 
-    const stack = [];
-    const result = [];
-    let i = 0;
+    while (min < 26 && count[min] === 0) min++;
 
-    let minChar = 0;
+    for (let i = 0; i < s.length; i++) {
+        const ch = s.charAt(i);
+        const idx = ch.charCodeAt(0) - 97;
 
-    while (i < n || stack.length > 0) {
-        // Move stack top to result if it's <= smallest char left in s
-        while (
-            stack.length > 0 &&
-            (i === n || stack[stack.length - 1] <= String.fromCharCode(minChar + 97))
-        ) {
-            result.push(stack.pop());
-        }
-
-        if (i < n) {
-            const ch = s[i];
-            stack.push(ch);
-            count[ch.charCodeAt(0) - 97]--;
-            i++;
-
-            // Update minChar to the smallest character still in `s`
-            while (minChar < 26 && count[minChar] === 0) {
-                minChar++;
+        if (idx === min) {
+            output.push(ch);
+            count[idx]--;
+            if (count[idx] === 0) {
+                while (min < 26 && count[min] === 0) min++;
+                while (
+                    min < 26 &&
+                    buffer.length > 0 &&
+                    buffer[buffer.length - 1].charCodeAt(0) <= min + 97
+                ) {
+                    output.push(buffer.pop());
+                }
             }
+        } else {
+            buffer.push(ch);
+            count[idx]--;
         }
     }
 
-    return result.join('');
-}
+    buffer.reverse();
+    return output.concat(buffer).join('');
+};
