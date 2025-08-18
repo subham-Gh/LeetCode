@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/subham-Gh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/subham-Gh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/subham-Gh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/subham-Gh/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/subham-Gh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/subham-Gh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/subham-Gh/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/subham-Gh/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/subham-Gh/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/subham-Gh/LeetCode/tree/master/0412-fizz-buzz) |
+| [0679-24-game](https://github.com/subham-Gh/LeetCode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/subham-Gh/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/subham-Gh/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/subham-Gh/LeetCode/tree/master/0867-new-21-game) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/subham-Gh/LeetCode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/subham-Gh/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/subham-Gh/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/subham-Gh/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
