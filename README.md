@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/subham-Gh/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/subham-Gh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/subham-Gh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/subham-Gh/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/subham-Gh/LeetCode/tree/master/0135-candy) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/subham-Gh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/subham-Gh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/subham-Gh/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/subham-Gh/LeetCode/tree/master/0768-partition-labels) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/subham-Gh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/subham-Gh/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/subham-Gh/LeetCode/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/subham-Gh/LeetCode/tree/master/0945-snakes-and-ladders) |
